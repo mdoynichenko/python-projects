@@ -24,5 +24,7 @@ $\textbf{3. spral_matrix.py}$
   Example:
   
   1 2 3
+  
   8 9 4
+  
   7 6 5
