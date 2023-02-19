@@ -1,4 +1,4 @@
-# My minor python projects
+# My minor python projects and scripts
 
 $\textbf{1. approximation01.py}$
 
