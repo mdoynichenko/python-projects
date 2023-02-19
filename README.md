@@ -18,3 +18,6 @@ $\textbf{2. approximation02.py}$
   3. Midpoint method
   
   4. Runge–Kutta method
+ 
+$\textbf{3. spral_matrix.py}$
+  It builds matrix with size m*n filled in form of spiral. Input parametrs: m, n. Returns matrix.
