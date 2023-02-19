@@ -21,3 +21,8 @@ $\textbf{2. approximation02.py}$
  
 $\textbf{3. spral_matrix.py}$
   It builds matrix with size m*n filled in form of spiral. Input parametrs: m, n. Returns matrix.
+  Example:
+  
+  1 2 3
+  8 9 4
+  7 6 5
